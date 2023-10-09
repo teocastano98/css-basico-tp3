@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+div{
+    text-align: center;
+    font-weight: bold;
+    border-radius: 15px;
+    margin: 15px;
+    border: solid;
+    border-style: dotted;
+}
+
+#color_bl{
+    background-color: #4499EE;
+}
+
+#color_pk{
+    background-color: #EE4499;
+}
+
+#color_gr{
+    background-color: #9e4;
+}
+.box_sq{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.box_re{
+    width: 370px;
+    height: 100px;
+}
